@@ -76,6 +76,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>naming-server</finalName>
     </build>
 
 </project>
